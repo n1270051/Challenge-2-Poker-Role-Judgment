@@ -1,7 +1,0 @@
-C:\Users\長澤祐哉\source\repos\poka\poka\obj\Debug\poka.csprojAssemblyReference.cache
-C:\Users\長澤祐哉\source\repos\poka\poka\obj\Debug\poka.csproj.CoreCompileInputs.cache
-C:\Users\長澤祐哉\source\repos\poka\poka\bin\Debug\poka.exe.config
-C:\Users\長澤祐哉\source\repos\poka\poka\bin\Debug\poka.exe
-C:\Users\長澤祐哉\source\repos\poka\poka\bin\Debug\poka.pdb
-C:\Users\長澤祐哉\source\repos\poka\poka\obj\Debug\poka.exe
-C:\Users\長澤祐哉\source\repos\poka\poka\obj\Debug\poka.pdb
